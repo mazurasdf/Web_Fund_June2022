@@ -1,0 +1,14 @@
+#title{
+    font-family: cursive;
+    color:brown;
+    text-decoration: underline;
+}
+
+.option{
+    font-family: cursive;
+    font-weight: bolder;
+}
+
+ul{
+    list-style-type: square;
+}
