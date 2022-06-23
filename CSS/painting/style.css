@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 650px;
+    height: 650px;
+    border: 3px solid black;
+    margin:  10px auto;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#mainTopHalf{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#mainBottomHalf{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#topLeftColumn{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#bigRed{
+    height: 100%;
+    width:70%;
+    background-color: red;
+}
+
+.columnTwin{
+    height: 45%;
+    width: 100%;
+}
+
+.whiteBackground{
+    background-color: whitesmoke;
+}
+
+#mediumBlue{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(40, 40, 216);
+}
+
+#longWhite{
+    width: 55%;
+    height: 100%;
+}
+
+#smallCorner{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#yellow{
+    background-color: yellow;
+}
