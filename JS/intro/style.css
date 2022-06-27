@@ -1,0 +1,26 @@
+*{
+    background-color: whitesmoke;
+}
+
+#customButton{
+    height: 50px;
+    width: 300px;
+    background-color: aquamarine;
+    font-size: 2em;
+    border: 2px solid black;
+    border-radius: 25%;
+    display: block;
+    margin: 0px auto;
+}
+
+#square{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+}
+
+#header{
+    text-align: center;
+    font-size: 3em;
+    margin: 25px;
+}
