@@ -1,0 +1,15 @@
+form{
+    width: 25%;
+    display: block;
+    margin: 25px auto;
+}
+
+input{
+    display: block;
+    margin-bottom: 25px;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
