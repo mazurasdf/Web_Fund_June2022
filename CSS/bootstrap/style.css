@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.form-control, .form-control:focus{
+    background-color: rgb(24, 48, 93);
+    color: white;
+}
+
+input::placeholder{
+    color: rgba(179, 179, 179, 0.728) !important;
+    font-style: italic;
+}
